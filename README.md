@@ -165,8 +165,9 @@ finally:
 
 * **Cloud Dashboards:** Integrate with platforms like ThingSpeak, Blynk, or custom Flask web dashboards for live telemetry[cite: 5].
 * **Weather Forecasting:** Poll weather API services to automatically suppress irrigation cycles when rain is anticipated[cite: 5].
-* **Mobile Alerts:** Trigger real-time notifications via Telegram Bot or IFTTT when water levels are low[cite: 5].<img width="597" height="749" alt="Screenshot 2026-08-25 172937" src="https://github.com/user-attachments/assets/7cc98684-a8cc-45fe-8660-9f5146645a11" />
-<img width="594" height="678" alt="Screenshot 2026-08-25 173032" src="https://github.com/user-attachments/assets/217ca1e9-e1a5-42c6-bc6b-f6e076233f35" />
-<img width="590" height="657" alt="Screenshot 2026-08-25 173055" src="https://github.com/user-attachments/assets/fee716d1-7f28-477c-8e75-ea7df54b873b" />
-<img width="592" height="692" alt="Screenshot 2026-08-25 173202" src="https://github.com/user-attachments/assets/ea3f8991-0547-467c-a5a9-6823dcf63131" />
-<img width="694" height="622" alt="Screenshot 2026-08-25 173213" src="https://github.com/user-attachments/assets/c5372c3a-521b-4261-834e-f9824c36f5a4" />
+* **Mobile Alerts:** Trigger real-time notifications via Telegram Bot or IFTTT when water levels are low[cite: 5].<img width="217" height="267" alt="Screenshot 2026-08-25 172923" src="https://github.com/user-attachments/assets/f2e3fb20-e87d-4167-bd37-2b292f90ec02" />
+<img width="597" height="749" alt="Screenshot 2026-08-25 172937" src="https://github.com/user-attachments/assets/2c90a3a0-7a11-4468-90f1-920b25570b23" />
+<img width="502" height="702" alt="Screenshot 2026-08-25 170815" src="https://github.com/user-attachments/assets/dd273e37-c888-432e-a72c-56e37dfc52e7" />
+<img width="392" height="414" alt="Screenshot 2026-08-25 170807" src="https://github.com/user-attachments/assets/a06e2ec1-edf0-45a6-aaae-f6873ce7a722" />
+<img width="505" height="711" alt="Screenshot 2026-08-25 170733" src="https://github.com/user-attachments/assets/86ba1484-5ab8-489a-84db-4c77e8e94696" />
+<img width="506" height="715" alt="Screenshot 2026-08-25 170719" src="https://github.com/user-attachments/assets/b2054336-2526-469d-8f70-8d1d1c961de9" />
