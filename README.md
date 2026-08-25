@@ -165,9 +165,5 @@ finally:
 
 * **Cloud Dashboards:** Integrate with platforms like ThingSpeak, Blynk, or custom Flask web dashboards for live telemetry[cite: 5].
 * **Weather Forecasting:** Poll weather API services to automatically suppress irrigation cycles when rain is anticipated[cite: 5].
-* **Mobile Alerts:** Trigger real-time notifications via Telegram Bot or IFTTT when water levels are low[cite: 5].<img width="217" height="267" alt="Screenshot 2026-08-25 172923" src="https://github.com/user-attachments/assets/f2e3fb20-e87d-4167-bd37-2b292f90ec02" />
-<img width="597" height="749" alt="Screenshot 2026-08-25 172937" src="https://github.com/user-attachments/assets/2c90a3a0-7a11-4468-90f1-920b25570b23" />
-<img width="502" height="702" alt="Screenshot 2026-08-25 170815" src="https://github.com/user-attachments/assets/dd273e37-c888-432e-a72c-56e37dfc52e7" />
-<img width="392" height="414" alt="Screenshot 2026-08-25 170807" src="https://github.com/user-attachments/assets/a06e2ec1-edf0-45a6-aaae-f6873ce7a722" />
-<img width="505" height="711" alt="Screenshot 2026-08-25 170733" src="https://github.com/user-attachments/assets/86ba1484-5ab8-489a-84db-4c77e8e94696" />
-<img width="506" height="715" alt="Screenshot 2026-08-25 170719" src="https://github.com/user-attachments/assets/b2054336-2526-469d-8f70-8d1d1c961de9" />
+* **Mobile Alerts:** Trigger real-time notifications via Telegram Bot or IFTTT when water levels are low[cite: 5].<img width="673" height="743" alt="Screenshot 2026-08-25 174305" src="https://github.com/user-attachments/assets/a9ae9b75-8619-460a-b5e2-9031f96c2432" />
+<img width="665" height="557" alt="Screenshot 2026-08-25 174314" src="https://github.com/user-attachments/assets/4360e073-a1ac-4b5c-b694-eb2acd4f3179" />
